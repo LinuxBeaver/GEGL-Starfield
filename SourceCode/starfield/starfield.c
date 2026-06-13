@@ -18,7 +18,7 @@
  */
 
 /*
-You can test starfield without installing it by giving this info to Gimp's GEGL Graph filter.
+You can test starfield without installing it by giving this info to Gimpꞌs GEGL Graph filter.
 This graph may not be a 100% accurate representation of it, but it is close enough.
  
 id=1 src  aux=[ ref=1 color ] crop
